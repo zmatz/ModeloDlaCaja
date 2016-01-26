@@ -1,0 +1,14 @@
+div {
+	border: 8px solid purple;
+	padding: 10px 20px 30px 40px;
+	margin: 20px;
+	background-color: violet;
+	}
+
+p {
+	background-color: white;
+	text-align: center;
+	border: 2px green dotted;
+	margin: 20px;
+	padding: 30px 50px;
+}
